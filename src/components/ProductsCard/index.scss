@@ -1,0 +1,9 @@
+.home__card{
+    overflow: hidden;
+    img{
+        display: flex;
+        object-fit: cover;
+        width: 280px;
+        height: 245px;
+    }
+}

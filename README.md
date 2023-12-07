@@ -1,4 +1,4 @@
-Projeto pratico de introdução a rotas e hooks no react usando o vite
+Atividade pratica de introdução a rotas e hooks no react usando o vite
 
 
 

@@ -1,13 +1,20 @@
-Atividade pratica de introdução a rotas e hooks no react usando o vite
+# atividade---FRONTEND---ecommerce-com-react---Escola-DNC
 
+## Sobre o projeto
+Essa atividade trata-se de uma aplicação que simula as rota basica de um ecommerc, navegando entre rotas com caminhos dinamicos.
 
+Projeto hospedado em: https://atividade-ecommerce-com-reactjs-escola-dnc.vercel.app/
 
+## Comandos para rodar o projeto
 
-# React + Vite
+```bash
+  npm i
+```
+```bash
+  npm run dev
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+![App Screenshot](/public/picture_01.png)
+![App Screenshot](/public/picture_02.png)
+![App Screenshot](/public/picture_03.png)

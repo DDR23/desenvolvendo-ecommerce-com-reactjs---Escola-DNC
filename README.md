@@ -1,4 +1,4 @@
-# atividade---FRONTEND---ecommerce-com-react---Escola-DNC
+# ecommerce-com-react-frontend
 
 ## Sobre o projeto
 Essa atividade trata-se de uma aplicação que simula as rota basica de um ecommerc, navegando entre rotas com caminhos dinamicos.
